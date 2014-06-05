@@ -1,0 +1,21 @@
+table th {
+    background: none repeat scroll 0 0 #BDC3C7;
+}
+table{
+	width:800px;
+	border: 1px solid;
+}
+tr:nth-child(odd) {
+	background: #CCC
+	}
+h5 {
+    font-size:22px;
+}
+.main{
+	padding:10px 60px;
+}
+
+FTP username: api@netshelldemos.com
+FTP server: ftp.netshelldemos.com
+FTP & explicit FTPS port: 21
+[3:04:55 PM] Netshell Infosystem: pass: !@#$%^
